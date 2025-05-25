@@ -27,10 +27,12 @@ This is a Chrome extension that enables **real-time in-page editing** on any web
 4. Click **"Load unpacked"** and select the folder you cloned/downloaded
 5. Done! 🎉 The extension is now active.
 
-
-### Author
-Made with ❤️ by **Purushottam Gurjar**
-
 ### License
 This project is open source under the **MIT License**.
+
+---
+## 🙋‍♂️ Author
+### Made with ❤️ by **Purushottam Gurjar**.
+GitHub: https://github.com/PurushottamGurjar  
+LinkedIn : https://linkedin.com/in/purushottam-gurjar
 
