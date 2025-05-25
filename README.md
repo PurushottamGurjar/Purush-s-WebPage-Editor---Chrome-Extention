@@ -15,7 +15,7 @@ This is a Chrome extension that enables **real-time in-page editing** on any web
 
 ## 📦 Installation (Manual via Chrome)
 
-> This extension is not available on the Chrome Web Store (yet), but you can load it manually.
+> This extension is not available on the Chrome Web Store (Absence of Google Developers Account ), but you can load it manually.
 
 ### Step-by-step:
 
