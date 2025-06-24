@@ -2,12 +2,19 @@
   "manifest_version": 3,
   "name": "Purush's Webpage Editor",
   "version": "1.0",
+<<<<<<< HEAD
   "description": "Webpage Editor that can edit all Webpages including WhatsApp , Insta and others. Designed by Purushottam Gurjar. ",
+=======
+  "description": "Webpage Editor that can edit all Webpages including WhatsApp , Insta and others  .       Designed by Purushottam Gurjar. ",
+>>>>>>> 809c50f7618e43c5bd933e0f9c11d793212aad30
   "permissions": ["scripting", "activeTab", "storage"],
   "host_permissions": ["<all_urls>"],
   "action": {
     "default_title": "Toggle Webpage Editing",
+<<<<<<< HEAD
     "default_popup":"popup.html",
+=======
+>>>>>>> 809c50f7618e43c5bd933e0f9c11d793212aad30
     "default_icon": {
       "128": "icons/icon128.png"
     }
